@@ -9,7 +9,7 @@ O desafio era criar uma página **leve**, **moderna** e **responsiva**, usando a
 
 ## 🌐 Link para o site publicado:
 
-👉 [https://drfelipefeldhaus.netlify.app/](https://drfelipefeldhaus.netlify.app/)
+👉 [https://drfelipefeldhaus.netlify.app/](https://drfelipefeldhaus.com.br)
 
 ---
 
@@ -59,7 +59,7 @@ O **Dr. Felipe Feldhaus** é especialista em **Harmonização Orofacial**, com c
 ✅ Entrega de um site profissional do zero  
 ✅ Prática de responsividade  
 ✅ Organização de código limpo e estruturado  
-✅ Deploy gratuito usando o **Netlify**
+✅ Deploy gratuito usando o **Netlify** e também na **Hostinger**
 
 ---
 
